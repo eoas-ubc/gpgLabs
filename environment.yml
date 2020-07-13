@@ -14,8 +14,10 @@ dependencies:
   - discretize
   - SimPEG<0.14
   - pymatsolver
+  - jupytext
   - pip
   - pip:
     - deepdish
     - empymod
     - geoscilabs
+    - git+https://github.com/executablebooks/jupyter-book
